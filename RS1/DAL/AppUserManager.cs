@@ -20,7 +20,7 @@ namespace RS1.DAL
             EFDbContext db = context.Get<EFDbContext>();
             AppUserManager manager = new AppUserManager(new UserStore<AppUser>(db));
 
-            manager.EmailService = new EmailService();
+           // manager.EmailService = new EmailService();
 
             var dataProtectionProvider = options.DataProtectionProvider;
             if(dataProtectionProvider != null)
