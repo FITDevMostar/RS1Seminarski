@@ -1,0 +1,207 @@
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\ApplicationInsights.config
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\csc.exe
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\vbc.exe
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\VBCSCompiler.exe
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\RS1.dll.config
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\RS1.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\RS1.pdb
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Web.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.ApplicationInsights.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Helpers.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Mvc.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Razor.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Deployment.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Razor.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Web.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.ApplicationInsights.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Razor.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Deployment.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Razor.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Helpers.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\System.Web.Mvc.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\obj\Debug\RS1.csprojResolveAssemblyReference.cache
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\obj\Debug\RS1.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\obj\Debug\RS1.pdb
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\EntityFramework.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\EntityFramework.SqlServer.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Newtonsoft.Json.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Owin.dll
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\EntityFramework.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\EntityFramework.SqlServer.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nihad hrnjic\documents\visual studio 2015\Projects\RS1\RS1\bin\Newtonsoft.Json.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\ApplicationInsights.config
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\csc.exe
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\vbc.exe
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\RS1.dll.config
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\RS1.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\RS1.pdb
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\EntityFramework.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\EntityFramework.SqlServer.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Web.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Newtonsoft.Json.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Owin.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Helpers.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Mvc.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Razor.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\EntityFramework.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\EntityFramework.SqlServer.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.Web.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\Newtonsoft.Json.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Razor.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Helpers.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\bin\System.Web.Mvc.xml
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\obj\Debug\RS1.csprojResolveAssemblyReference.cache
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\obj\Debug\RS1.dll
+C:\Users\Nihad\Documents\Visual Studio 2015\Projects\RS1\RS1\obj\Debug\RS1.pdb
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\ApplicationInsights.config
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\csc.exe
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\vbc.exe
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\RS1.dll.config
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\RS1.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\RS1.pdb
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\EntityFramework.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\EntityFramework.SqlServer.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.Web.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Newtonsoft.Json.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Owin.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Helpers.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Mvc.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Razor.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\EntityFramework.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\EntityFramework.SqlServer.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.Web.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\Newtonsoft.Json.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Razor.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Helpers.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\bin\System.Web.Mvc.xml
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\obj\Debug\RS1.csprojResolveAssemblyReference.cache
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\obj\Debug\RS1.dll
+C:\Users\Nihad\Desktop\RS1Seminarski\RS1\obj\Debug\RS1.pdb
