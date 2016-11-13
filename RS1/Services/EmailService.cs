@@ -20,8 +20,8 @@ namespace RS1.Services
         private async Task sendEmailAsync(IdentityMessage message)
         {
 
-            string serviceMail = "nhiap6@gmail.com";
-            string serviceMailPass = "lebronjames23046";
+            string serviceMail = "";
+            string serviceMailPass = "";
 
             Debug.WriteLine("Email: " + message.Destination);
 

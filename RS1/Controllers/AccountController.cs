@@ -38,14 +38,16 @@ namespace RS1.Controllers
 
                 if (result.Succeeded)
                 {
-                    //UserManager.AddToRole(user.Id, "User");
+                    UserManager.AddToRole(user.Id, "User");
 
+                    /*
                     string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
                     var callbackUrl = new Uri(Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }
                     , protocol: Request.Url.Scheme));
                     await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Hello "+user.UserName+", please confirm your account by clicking <a href = "+callbackUrl+"> Here </a>");
+                    */
 
-                    return RedirectToAction("EmailConfirmMessage", "Account");
+                    return RedirectToAction("Profile", "Account");
                 }   
             }
 
