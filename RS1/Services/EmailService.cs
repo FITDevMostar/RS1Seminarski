@@ -10,6 +10,7 @@ using System.Diagnostics;
 
 namespace RS1.Services
 {
+    /*
     public class EmailService : IIdentityMessageService
     {
         public async Task SendAsync(IdentityMessage message)
@@ -42,5 +43,5 @@ namespace RS1.Services
                 await client.SendMailAsync(mailMessage); 
             } 
         }
-    }
+    }*/
 }
