@@ -9,6 +9,7 @@ namespace RS1.Models
 {
     public class AppUser : IdentityUser
     {
-        public String Index { get; set; }
+        public String FirstName { get; set; }
+        public String LastName { get; set; }
     }
 }
