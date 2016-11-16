@@ -20,6 +20,15 @@ namespace RS1.DAL
             return new EFDbContext();
         }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<AppUser>().HasOptional(x => x.Administrator).WithRequired(x => x.AppUser);
+            modelBuilder.Entity<AppUser>().HasOptional(x => x.Instruktor).WithRequired(x => x.AppUser);
+            modelBuilder.Entity<AppUser>().HasOptional(x => x.Student).WithRequired(x => x.AppUser);
+
+        }
+
     }
 
     public class InitDb : DropCreateDatabaseIfModelChanges<EFDbContext>

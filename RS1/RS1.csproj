@@ -215,8 +215,27 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="IdentityConfig.cs" />
+    <Compile Include="Models\Administrator.cs" />
     <Compile Include="Models\AppRole.cs" />
     <Compile Include="Models\AppUser.cs" />
+    <Compile Include="Models\Drzava.cs" />
+    <Compile Include="Models\Grad.cs" />
+    <Compile Include="Models\Instruktor.cs" />
+    <Compile Include="Models\Kategorija.cs" />
+    <Compile Include="Models\Kurs.cs" />
+    <Compile Include="Models\KursArhiva.cs" />
+    <Compile Include="Models\KursBiljeske.cs" />
+    <Compile Include="Models\KursLajk.cs" />
+    <Compile Include="Models\Odgovor.cs" />
+    <Compile Include="Models\Pitanje.cs" />
+    <Compile Include="Models\PodKategorija.cs" />
+    <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\StudentKurs.cs" />
+    <Compile Include="Models\StudentPitanje.cs" />
+    <Compile Include="Models\StudentZadaca.cs" />
+    <Compile Include="Models\StudentZnacka.cs" />
+    <Compile Include="Models\Zadaca.cs" />
+    <Compile Include="Models\Znacka.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\EmailService.cs" />
     <Compile Include="ViewModel\ChangePasswordModel.cs" />
